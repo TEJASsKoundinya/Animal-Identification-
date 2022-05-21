@@ -4,6 +4,10 @@ Identification of 90 different animals with help of InseptionV3 this project cou
 #### Dataset link 
 https://drive.google.com/drive/folders/1O3arcBORQdRjD_yAfkiZQIyxWn00hP2u?usp=sharing
 
+## Classification of Data as input
+![image](https://user-images.githubusercontent.com/77600063/169655522-ad0f15af-272e-4fc8-a4b3-d44f6bc9902e.png)
+
+
 ![image](https://user-images.githubusercontent.com/77600063/159136129-dc9a9ca3-e0a6-4e49-ad53-76ff8031eff6.png)
 
 ## The Skelton or flowchart for the application
